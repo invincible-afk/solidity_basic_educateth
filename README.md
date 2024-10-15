@@ -45,7 +45,7 @@ Puedes usar Remix IDE para probar el contrato en una red local o en la red de pr
 
 1. **Abre Remix IDE**: [Remix](https://remix.ethereum.org/)
 2. **Copia y pega el código en un nuevo archivo .sol** en Remix.
-3. **Compila el contrato** utilizando la versión de Solidity `0.8.0` o superior.
+3. **Compila el contrato** utilizando la versión de Solidity `0.8.24` o superior.
 4. **Despliega el contrato** en una red local o de prueba (puedes usar `Injected Web3` para Metamask o la opción de `JavaScript VM` para pruebas locales).
 5. **Interactúa con el contrato**: Usa la función `obtenerSaludo` para obtener el mensaje y `cambiarSaludo` para modificarlo.
 
