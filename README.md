@@ -21,6 +21,7 @@ Antes de ejecutar este proyecto, asegúrate de tener instalados los siguientes c
 
 ## Estructura del Contrato
 --------------------------------------------------------------------------------------------------------
+```
 // SPDX-License-Identifier: MIT
 
 pragma solidity 0.8.24; // en esta parte defino la versión del compilador
@@ -31,6 +32,7 @@ contract hola_mundo {
     string public saludo ="Hola desde Educateth 2.0"; // declarando el contenido de mi variable saludo
 
 }
+```
 --------------------------------------------------------------------------------------------------------
 ### Explicación:
 - **`constructor`**: Se ejecuta una vez al desplegar el contrato y establece el saludo por defecto como "Hola Mundo".
